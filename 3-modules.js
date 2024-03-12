@@ -1,0 +1,6 @@
+const names = require('./4-names')
+const hi = require('./5-utilis')
+const data =require('./6-alternative-flavour')
+require('./7-mind-granade')
+hi('jeeva')
+hi(names.john)
